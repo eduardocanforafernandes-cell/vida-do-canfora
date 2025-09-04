@@ -246,3 +246,15 @@ span{
 #menu-toggle:checked ~ nav{
     display:block;
 }
+.blocos h3{
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    border-left: 5px solid rgb(204, 62, 26);
+    padding-left: 1.5rem;
+    color: rgb(204, 62, 26);
+}
+.blocos p{
+    font-size: 1.8rem;
+    line-height: 1.7;
+    color:chocolate;
+}
